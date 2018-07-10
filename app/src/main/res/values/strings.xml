@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrystalBallFortuneTeller</string>
+    <string name="askquestionTextView">Ask Your Question</string>
+    <string name="answerTextView">Shake me to see my answer...</string>
+    <string name="exitButton">Exit</string>
+    <string name="crystalballImageView">An image of a crystal ball</string>
+</resources>

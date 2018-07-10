@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fortune_teller_answers">
+
+        <item>It is certain</item>
+        <item>It is decidedly so</item>
+        <item>Without a doubt</item>
+        <item>Yes definitely</item>
+        <item>You may rely on it</item>
+        <item>As I see it yes</item>
+        <item>Most likely</item>
+        <item>Outlook good</item>
+        <item>Yes</item>
+        <item>Signs point to yes</item>
+        <item>Reply hazy try again</item>
+        <item>Ask again later</item>
+        <item>Better not tell you now</item>
+        <item>Cannot predict now</item>
+        <item>Concentrate and ask again</item>
+        <item>Dont count on it</item>
+        <item>My reply is no</item>
+        <item>My sources say no</item>
+        <item>Outlook not so good</item>
+        <item>Very doubtful</item>
+        <item>42</item>
+        <item>Better ask you lawyer instead</item>
+        <item>May the odds be ever in your favor</item>
+        <item>Go ask your father</item>
+        <item>Psychics agree yes</item>
+        <item>You are in grave danger</item>
+        <item>99 cats agree</item>
+        <item>When pigs fly</item>
+
+    </string-array>
+
+</resources>
